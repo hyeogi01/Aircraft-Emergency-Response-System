@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>STT-RAG-TTS Dashboard</title>
+    <style>
+        body {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            grid-template-rows: 2fr 1fr;
+            gap: 10px;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #111;
+            color: #eee;
+        }
+
+        #webcam, #control, #messages, #checklist {
+            background: #1b1b1b;
+            border: 1px solid #444;
+            padding: 10px;
+            overflow: hidden;
+            border-radius: 8px;
+        }
+
+        #webcam {
+            grid-column: 1 / 2;
+            grid-row: 1 / 2;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        #video-canvas {
+            flex: 1;
+            width: 100%;
+            height: 100%;
+            object-fit: contain; /* 비율 유지하면서 꽉 맞추기 */
+            border: 2px solid #444;
+            border-radius: 8px;
+        }
+
+        #chat {
+            grid-column: 1 / 2;
+            grid-row: 2 / 3;
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 10px;
+        }
+
+        #control h2, #messages h2, #checklist h2 {
+            margin: 0 0 8px;
+            color: #0f0;
+            text-align: center;
+            border-bottom: 2px solid #444;
+            padding-bottom: 4px;
+        }
+
+        #control {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 12px;
+        }
+
+        #control button {
+            width: 90%;
+            padding: 10px;
+            font-size: 16px;
+            font-weight: bold;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            background: #0a84ff;
+            color: white;
+            transition: background 0.2s;
+        }
+        #control button:hover {
+            background: #006edc;
+        }
+
+        #messages {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .chat-log {
+            flex: 1;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding: 8px;
+            background: #222;
+            border-radius: 6px;
+        }
+
+        .chat-msg.user {
+            align-self: flex-start;
+            background: #333;
+            padding: 8px 12px;
+            border-radius: 12px;
+            max-width: 70%;
+        }
+
+        .chat-msg.bot {
+            align-self: flex-end;
+            background: #0a84ff;
+            color: white;
+            padding: 8px 12px;
+            border-radius: 12px;
+            max-width: 70%;
+        }
+
+        #checklist {
+            grid-column: 2 / 3;
+            grid-row: 1 / 3;
+            display: flex;
+            flex-direction: column;
+        }
+
+        #checklist .question-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 0 0 12px;
+            text-align: center;
+            border-bottom: 2px solid #444;
+            padding-bottom: 6px;
+        }
+
+        #checklist ol {
+            counter-reset: step;
+            margin: 0;
+            padding: 0 8px;
+            flex: 1;
+            overflow-y: auto;
+        }
+
+        #checklist li {
+            counter-increment: step;
+            margin-bottom: 10px;
+            padding-bottom: 6px;
+            border-bottom: 1px solid #444;
+            list-style: none;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            font-size: 18px;
+        }
+
+        #checklist li::before {
+            content: counter(step);
+            color: #0f0;
+            font-weight: bold;
+            margin-right: 8px;
+            font-size: 20px;
+        }
+
+        #checklist .step-check {
+            margin-left: auto;
+            transform: scale(1.4);
+            accent-color: #0f0;
+        }
+    </style>
+</head>
+<body>
+    <div id="webcam">
+        <canvas id="video-canvas"></canvas>
+    </div>
+
+    <div id="chat">
+        <div id="control">
+            <h2>CONTROL</h2>
+            <button>Start Webcam</button>
+            <button>Stop Webcam</button>
+            <button id="clear-chat">Clear</button>
+        </div>
+        <div id="messages">
+            <h2>CHATTING LOG</h2>
+            <div class="chat-log" id="chat-log"></div>
+        </div>
+    </div>
+
+    <div id="checklist">
+        <h2>CHECK LIST</h2>
+        <h3 class="question-title" id="question-title"></h3>
+        <ol id="checklist-steps"></ol>
+    </div>
+
+    <script>
+        const chatLog = document.getElementById("chat-log");
+        const checklistSteps = document.getElementById("checklist-steps");
+
+        // ==============================
+        // 📌 WebSocket 연결
+        // ==============================
+        let ws;
+        let reconnectInterval = 3000;
+
+        function connectWS() {
+            ws = new WebSocket("ws://localhost:8000/ws/stt");
+
+            ws.onopen = () => console.log("✅ WebSocket 연결됨");
+
+            ws.onmessage = (event) => {
+                const raw = event.data.trim();
+                if (raw === "ping") return;
+
+                if (raw.startsWith("checklist,")) {
+                    const step = raw.replace("checklist,", "").trim();
+                    const li = document.createElement("li");
+                    li.innerHTML = `<span>${step}</span><input type="checkbox" class="step-check">`;
+                    checklistSteps.appendChild(li);
+                    return;
+                }
+
+                if (raw.startsWith("check,")) {
+                    const idx = parseInt(raw.replace("check,", "").trim());
+                    const items = document.querySelectorAll("#checklist-steps li .step-check");
+                    if (idx < items.length) {
+                        items[idx].checked = true;   // ✅ 해당 체크박스 체크
+                    }
+                    return;
+                }
+
+                let role = raw.startsWith("user,") ? "user" : "bot";
+                let text = raw.replace(/^(user,|bot,)/, "").trim();
+
+                const msg = document.createElement("div");
+                msg.classList.add("chat-msg", role);
+                msg.textContent = text;
+                chatLog.appendChild(msg);
+                chatLog.scrollTop = chatLog.scrollHeight;
+            };
+
+            ws.onclose = () => {
+                console.log("❌ WebSocket 연결 종료 → 재연결 시도 중...");
+                setTimeout(connectWS, reconnectInterval);
+            };
+
+            ws.onerror = (err) => {
+                console.error("⚠️ WebSocket 오류:", err);
+                if (ws.readyState !== WebSocket.CLOSED) ws.close();
+            };
+        }
+
+        connectWS();
+
+        document.getElementById("clear-chat").addEventListener("click", () => {
+            chatLog.innerHTML = "";
+            checklistSteps.innerHTML = "";
+        });
+
+        // ==============================
+        // 📌 YOLO Video Stream (Canvas 방식)
+        // ==============================
+        const canvas = document.getElementById("video-canvas");
+        const ctx = canvas.getContext("2d");
+
+        function resizeCanvas() {
+            canvas.width = canvas.clientWidth;
+            canvas.height = canvas.clientHeight;
+        }
+        window.addEventListener("resize", resizeCanvas);
+        resizeCanvas();
+
+        async function updateFrame() {
+            try {
+                const res = await fetch("/video_frame?ts=" + Date.now());
+                if (!res.ok) {
+                    requestAnimationFrame(updateFrame);
+                    return;
+                }
+                const blob = await res.blob();
+                const bitmap = await createImageBitmap(blob);
+                ctx.drawImage(bitmap, 0, 0, canvas.width, canvas.height);
+            } catch (err) {
+                console.error("⚠️ 영상 fetch 오류:", err);
+                setTimeout(updateFrame, 500);
+                return;
+            }
+            requestAnimationFrame(updateFrame);
+        }
+
+        updateFrame();
+    </script>
+</body>
+</html>

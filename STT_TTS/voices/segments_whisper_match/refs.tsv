@@ -1,0 +1,20 @@
+../voices/segments_whisper_match/seg_0001.wav	배터리 전원 스위치 ON
+../voices/segments_whisper_match/seg_0002.wav	연료량 확인 좌측 및 우측 탱크
+../voices/segments_whisper_match/seg_0003.wav	비행계기 작동 여부 확인
+../voices/segments_whisper_match/seg_0004.wav	유압 압력 정상 범위 확인
+../voices/segments_whisper_match/seg_0005.wav	엔진 시동 절차 시작
+../voices/segments_whisper_match/seg_0006.wav	연료 펌프 ON 압력 정상 확인
+../voices/segments_whisper_match/seg_0007.wav	연료 혼합 레버 RICH로 설정
+../voices/segments_whisper_match/seg_0008.wav	프로펠러 영역 Clear 엔진 시동
+../voices/segments_whisper_match/seg_0009.wav	시동 후 유압 오일 압력 정상 확인
+../voices/segments_whisper_match/seg_0010.wav	항법 장치 및 통신 장비 전원 ON
+../voices/segments_whisper_match/seg_0011.wav	플랩 이륙 위치로 설정
+../voices/segments_whisper_match/seg_0012.wav	엔진 출력 점검 최대 출력 확인
+../voices/segments_whisper_match/seg_0013.wav	비행계기 속도계 고도계 방향계 점검 완료
+../voices/segments_whisper_match/seg_0014.wav	조종간 및 러더 자유로운 움직임 확인
+../voices/segments_whisper_match/seg_0015.wav	비행계획서 및 관제 허가 재확인
+../voices/segments_whisper_match/seg_0016.wav	엔진 화재 발생 혼합 레버 IDLE CUTOFF
+../voices/segments_whisper_match/seg_0017.wav	연료 밸브 OFF, 마스터 스위치 OFF
+../voices/segments_whisper_match/seg_0018.wav	객실 내 화재  소화기 사용 및 산소마스크 착용
+../voices/segments_whisper_match/seg_0019.wav	비상 착륙 준비  좌석 및 하네스 고정
+../voices/segments_whisper_match/seg_0020.wav	착륙 후 모든 전원 OFF, 승객 대피 유도

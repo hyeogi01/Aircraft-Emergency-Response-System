@@ -1,0 +1,665 @@
+{"audio": "../voices/Lora_Dataset/seg_0001.wav", "sentence": "좌측 엔진에서 Fire warning light가 켜졌어 첫 번째 절차가 뭐야"}
+{"audio": "../voices/Lora_Dataset/seg_0002.wav", "sentence": "Left engine fire 경고음이 울리고 있어 Thrust lever는 어떻게 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0003.wav", "sentence": "좌측 엔진 화재 신호 들어왔어 엔진 출력 먼저 줄여야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0004.wav", "sentence": "Thrust lever를 IDLE로 옮겨야 하지 않아"}
+{"audio": "../voices/Lora_Dataset/seg_0005.wav", "sentence": "좌측 엔진 화재 경고 확인됐어 Engine master switch 끄는 게 맞지"}
+{"audio": "../voices/Lora_Dataset/seg_0006.wav", "sentence": "엔진 화재 발생 시 Engine fire pushbutton을 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0007.wav", "sentence": "엔진 화재 소화기 방출 준비됐어 Fire extinguisher handle 잡아"}
+{"audio": "../voices/Lora_Dataset/seg_0008.wav", "sentence": "좌측 엔진 화재 진압 절차 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0009.wav", "sentence": "연료 차단했어 이제 Fire bottle 방출할까"}
+{"audio": "../voices/Lora_Dataset/seg_0010.wav", "sentence": "좌측 엔진이 계속 불타고 있어 두 번째 소화기 방출해야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0011.wav", "sentence": "오른쪽 엔진에서 화재 경고 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0012.wav", "sentence": "Right engine fire warning light가 켜졌는데 맞아?"}
+{"audio": "../voices/Lora_Dataset/seg_0013.wav", "sentence": "오른쪽 엔진 화재 발생했어 Thrust lever idle로 낮춰"}
+{"audio": "../voices/Lora_Dataset/seg_0014.wav", "sentence": "엔진 화재 시 Engine master switch는 바로 OFF로 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0015.wav", "sentence": "Right engine fire extinguishing 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0016.wav", "sentence": "엔진 화재 진압을 위해 Extinguisher 버튼 눌러"}
+{"audio": "../voices/Lora_Dataset/seg_0017.wav", "sentence": "첫 번째 병으로 진화 안 되면 Second bottle 사용해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0018.wav", "sentence": "엔진 화재 상황이 진화됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0019.wav", "sentence": "엔진 경고등이 꺼졌어 화재 진압된 것 같아"}
+{"audio": "../voices/Lora_Dataset/seg_0020.wav", "sentence": "좌측 엔진 연료 공급 차단됐는지 다시 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0021.wav", "sentence": "화재 절차 중에 전기 계통도 영향을 받을 수 있지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0022.wav", "sentence": "APU fire 경고 들어왔어 어떻게 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0023.wav", "sentence": "APU master switch 끄고 fire extinguisher 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0024.wav", "sentence": "APU fire extinguishing bottle 방출해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0025.wav", "sentence": "APU fire warning light 꺼졌는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0026.wav", "sentence": "Cabin fire smoke 감지됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0027.wav", "sentence": "Cabin fire 발생 시 Oxygen mask 착용해야지"}
+{"audio": "../voices/Lora_Dataset/seg_0028.wav", "sentence": "Cabin fire 절차 수행 중이야 Passenger oxygen도 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0029.wav", "sentence": "Avionics smoke 경고 들어왔어 전원 차단할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0030.wav", "sentence": "Cargo compartment fire warning 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0031.wav", "sentence": "Cargo smoke detected 메시지가 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0032.wav", "sentence": "Cargo fire extinguishing switch 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0033.wav", "sentence": "Cargo bottle 방출 절차 수행해"}
+{"audio": "../voices/Lora_Dataset/seg_0034.wav", "sentence": "화재가 진화될 때까지 Cabin pressure 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0035.wav", "sentence": "Cockpit smoke 발생했어 Ventilation 바꿔야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0036.wav", "sentence": "Emergency descent도 준비해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0037.wav", "sentence": "Engine fire handle 당겨야 하지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0038.wav", "sentence": "Engine fire handle을 당기면 Fuel, Hydraulic, Bleed 다 차단돼"}
+{"audio": "../voices/Lora_Dataset/seg_0039.wav", "sentence": "Fire extinguisher discharge 절차 준비됐지?"}
+{"audio": "../voices/Lora_Dataset/seg_0040.wav", "sentence": "좌측 엔진 화재 확인됐어 Engine fire checklist 실행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0041.wav", "sentence": "QRH에서 Engine fire 절차 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0042.wav", "sentence": "ECAM 지시에 따라 Engine fire procedure 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0043.wav", "sentence": "화재 경고음이 계속 울리고 있어 소음 차단 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0044.wav", "sentence": "엔진 화재 중에 ATC에 Mayday 선언해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0045.wav", "sentence": "좌측 엔진 화재 발생 Mayday Mayday Mayday"}
+{"audio": "../voices/Lora_Dataset/seg_0046.wav", "sentence": "ATC에 좌측 엔진 화재 상황 통보했어"}
+{"audio": "../voices/Lora_Dataset/seg_0047.wav", "sentence": "비상 절차 수행 후 Return to base 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0048.wav", "sentence": "긴급 착륙을 위한 Checklist 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0049.wav", "sentence": "Emergency landing gear extension 고려해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0050.wav", "sentence": "Single engine approach 준비 시작할게"}
+{"audio": "../voices/Lora_Dataset/seg_0051.wav", "sentence": "좌측 엔진 화재로 엔진 정지됐어 Single engine으로 간다"}
+{"audio": "../voices/Lora_Dataset/seg_0052.wav", "sentence": "엔진 성능 저하 감지돼 계속 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0053.wav", "sentence": "엔진 출력 불안정해 계속 Thrust 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0054.wav", "sentence": "엔진 vibration limit 초과됐어 바로 절차 들어가야지"}
+{"audio": "../voices/Lora_Dataset/seg_0055.wav", "sentence": "엔진 화재 경고는 꺼졌지만 냄새가 계속 나"}
+{"audio": "../voices/Lora_Dataset/seg_0056.wav", "sentence": "냄새와 연기가 남아 있으면 Ventilation 조정해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0057.wav", "sentence": "Cabin crew에게 상황 알리고 준비시키자"}
+{"audio": "../voices/Lora_Dataset/seg_0058.wav", "sentence": "Passenger에게 상황 브리핑해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0059.wav", "sentence": "좌석 벨트 사인 켰어 승객 안전 확보 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0060.wav", "sentence": "Fire extinguisher 방출 후 Pressure indication 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0061.wav", "sentence": "Extinguisher discharge light 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0062.wav", "sentence": "Fire handle light 꺼졌는지 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0063.wav", "sentence": "ECAM memo에서 Fire extinguished 메시지 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0064.wav", "sentence": "Engine fire 절차가 끝났어 Status page 확인 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0065.wav", "sentence": "엔진 화재 상황에서 Electrical power 분리 필요할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0066.wav", "sentence": "Hydraulic system 영향 있는지 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0067.wav", "sentence": "Pneumatic bleed air는 차단됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0068.wav", "sentence": "엔진 화재 진압 완료 후에도 Fuel balance 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0069.wav", "sentence": "엔진 화재 이후 Crossfeed valve 점검해"}
+{"audio": "../voices/Lora_Dataset/seg_0070.wav", "sentence": "엔진 화재 절차 수행 중 Checklist crosscheck하자"}
+{"audio": "../voices/Lora_Dataset/seg_0071.wav", "sentence": "Challenge and response 방식으로 절차 진행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0072.wav", "sentence": "Engine fire checklist step by step 따라가고 있어"}
+{"audio": "../voices/Lora_Dataset/seg_0073.wav", "sentence": "QRH 절차와 ECAM 메시지 불일치하는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0074.wav", "sentence": "Manual procedure 필요한지 확인하자"}
+{"audio": "../voices/Lora_Dataset/seg_0075.wav", "sentence": "좌측 엔진 화재 절차 끝났어 Now engine secured"}
+{"audio": "../voices/Lora_Dataset/seg_0076.wav", "sentence": "비상 상황에서 ATC와 계속 통신 유지하자"}
+{"audio": "../voices/Lora_Dataset/seg_0077.wav", "sentence": "Cabin altitude check도 같이 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0078.wav", "sentence": "화재 절차 중에 Electrical load shedding 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0079.wav", "sentence": "엔진 화재 절차에서 Generator trip 여부 확인"}
+{"audio": "../voices/Lora_Dataset/seg_0080.wav", "sentence": "엔진 화재 절차 중에 Fuel pumps off 했지?"}
+{"audio": "../voices/Lora_Dataset/seg_0081.wav", "sentence": "Hydraulic pumps 영향 받았는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0082.wav", "sentence": "엔진 화재 진압되면 Resume normal operation 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0083.wav", "sentence": "엔진 화재가 기체 구조에 손상 줬는지 확인 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0084.wav", "sentence": "Fire extinguishing 완료 후 Maintenance log 기록해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0085.wav", "sentence": "비행 종료 후 Fire extinguisher pressure 확인할 것"}
+{"audio": "../voices/Lora_Dataset/seg_0086.wav", "sentence": "엔진 화재 절차 훈련 덕분에 신속하게 대응했어"}
+{"audio": "../voices/Lora_Dataset/seg_0087.wav", "sentence": "비행 기록계에 Engine fire event 기록됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0088.wav", "sentence": "Flight data recorder에 Fire warning 저장 확인해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0089.wav", "sentence": "좌측 엔진 화재 절차 마무리됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0090.wav", "sentence": "Return to base 결정하고 Approach briefing 시작"}
+{"audio": "../voices/Lora_Dataset/seg_0091.wav", "sentence": "Emergency evacuation 필요할 수 있어 준비하자"}
+{"audio": "../voices/Lora_Dataset/seg_0092.wav", "sentence": "착륙 후 Fire service 요청해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0093.wav", "sentence": "지상 활주 중에도 Fire warning 다시 오나 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0094.wav", "sentence": "Engine fire extinguished 메시지 확인 최종 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0095.wav", "sentence": "모든 절차 끝났어 Now aircraft under control"}
+{"audio": "../voices/Lora_Dataset/seg_0096.wav", "sentence": "좌측 엔진에서 Fire warning light가 켜졌어 첫 번째 절차가 뭐야"}
+{"audio": "../voices/Lora_Dataset/seg_0097.wav", "sentence": "Left engine fire 경고음이 울리고 있어 Thrust lever는 어떻게 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0098.wav", "sentence": "좌측 엔진 화재 신호 들어왔어 엔진 출력 먼저 줄여야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0099.wav", "sentence": "Thrust lever를 IDLE로 옮겨야 하지 않아"}
+{"audio": "../voices/Lora_Dataset/seg_0100.wav", "sentence": "좌측 엔진 화재 경고 확인됐어 Engine master switch 끄는 게 맞지"}
+{"audio": "../voices/Lora_Dataset/seg_0101.wav", "sentence": "엔진 화재 발생 시 Engine fire pushbutton을 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0102.wav", "sentence": "엔진 화재 소화기 방출 준비됐어 Fire extinguisher handle 잡아"}
+{"audio": "../voices/Lora_Dataset/seg_0103.wav", "sentence": "좌측 엔진 화재 진압 절차 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0104.wav", "sentence": "연료 차단했어 이제 Fire bottle 방출할까"}
+{"audio": "../voices/Lora_Dataset/seg_0105.wav", "sentence": "좌측 엔진이 계속 불타고 있어 두 번째 소화기 방출해야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0106.wav", "sentence": "오른쪽 엔진에서 화재 경고 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0107.wav", "sentence": "Right engine fire warning light가 켜졌는데 맞아?"}
+{"audio": "../voices/Lora_Dataset/seg_0108.wav", "sentence": "오른쪽 엔진 화재 발생했어 Thrust lever idle로 낮춰"}
+{"audio": "../voices/Lora_Dataset/seg_0109.wav", "sentence": "엔진 화재 시 Engine master switch는 바로 OFF로 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0110.wav", "sentence": "Right engine fire extinguishing 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0111.wav", "sentence": "엔진 화재 진압을 위해 Extinguisher 버튼 눌러"}
+{"audio": "../voices/Lora_Dataset/seg_0112.wav", "sentence": "첫 번째 병으로 진화 안 되면 Second bottle 사용해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0113.wav", "sentence": "엔진 화재 상황이 진화됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0114.wav", "sentence": "엔진 경고등이 꺼졌어 화재 진압된 것 같아"}
+{"audio": "../voices/Lora_Dataset/seg_0115.wav", "sentence": "좌측 엔진 연료 공급 차단됐는지 다시 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0116.wav", "sentence": "화재 절차 중에 전기 계통도 영향을 받을 수 있지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0117.wav", "sentence": "APU fire 경고 들어왔어 어떻게 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0118.wav", "sentence": "APU master switch 끄고 fire extinguisher 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0119.wav", "sentence": "APU fire extinguishing bottle 방출해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0120.wav", "sentence": "APU fire warning light 꺼졌는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0121.wav", "sentence": "Cabin fire smoke 감지됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0122.wav", "sentence": "Cabin fire 발생 시 Oxygen mask 착용해야지"}
+{"audio": "../voices/Lora_Dataset/seg_0123.wav", "sentence": "Cabin fire 절차 수행 중이야 Passenger oxygen도 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0124.wav", "sentence": "Avionics smoke 경고 들어왔어 전원 차단할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0125.wav", "sentence": "Cargo compartment fire warning 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0126.wav", "sentence": "Cargo smoke detected 메시지가 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0127.wav", "sentence": "Cargo fire extinguishing switch 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0128.wav", "sentence": "Cargo bottle 방출 절차 수행해"}
+{"audio": "../voices/Lora_Dataset/seg_0129.wav", "sentence": "화재가 진화될 때까지 Cabin pressure 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0130.wav", "sentence": "Cockpit smoke 발생했어 Ventilation 바꿔야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0131.wav", "sentence": "Emergency descent도 준비해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0132.wav", "sentence": "Engine fire handle 당겨야 하지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0133.wav", "sentence": "Engine fire handle을 당기면 Fuel, Hydraulic, Bleed 다 차단돼"}
+{"audio": "../voices/Lora_Dataset/seg_0134.wav", "sentence": "Fire extinguisher discharge 절차 준비됐지?"}
+{"audio": "../voices/Lora_Dataset/seg_0135.wav", "sentence": "좌측 엔진 화재 확인됐어 Engine fire checklist 실행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0136.wav", "sentence": "QRH에서 Engine fire 절차 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0137.wav", "sentence": "ECAM 지시에 따라 Engine fire procedure 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0138.wav", "sentence": "화재 경고음이 계속 울리고 있어 소음 차단 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0139.wav", "sentence": "엔진 화재 중에 ATC에 Mayday 선언해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0140.wav", "sentence": "좌측 엔진 화재 발생 Mayday Mayday Mayday"}
+{"audio": "../voices/Lora_Dataset/seg_0141.wav", "sentence": "ATC에 좌측 엔진 화재 상황 통보했어"}
+{"audio": "../voices/Lora_Dataset/seg_0142.wav", "sentence": "비상 절차 수행 후 Return to base 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0143.wav", "sentence": "긴급 착륙을 위한 Checklist 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0144.wav", "sentence": "Emergency landing gear extension 고려해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0145.wav", "sentence": "Single engine approach 준비 시작할게"}
+{"audio": "../voices/Lora_Dataset/seg_0146.wav", "sentence": "좌측 엔진 화재로 엔진 정지됐어 Single engine으로 간다"}
+{"audio": "../voices/Lora_Dataset/seg_0147.wav", "sentence": "엔진 성능 저하 감지돼 계속 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0148.wav", "sentence": "엔진 출력 불안정해 계속 Thrust 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0149.wav", "sentence": "엔진 vibration limit 초과됐어 바로 절차 들어가야지"}
+{"audio": "../voices/Lora_Dataset/seg_0150.wav", "sentence": "엔진 화재 경고는 꺼졌지만 냄새가 계속 나"}
+{"audio": "../voices/Lora_Dataset/seg_0151.wav", "sentence": "냄새와 연기가 남아 있으면 Ventilation 조정해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0152.wav", "sentence": "Cabin crew에게 상황 알리고 준비시키자"}
+{"audio": "../voices/Lora_Dataset/seg_0153.wav", "sentence": "Passenger에게 상황 브리핑해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0154.wav", "sentence": "좌석 벨트 사인 켰어 승객 안전 확보 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0155.wav", "sentence": "Fire extinguisher 방출 후 Pressure indication 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0156.wav", "sentence": "Extinguisher discharge light 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0157.wav", "sentence": "Fire handle light 꺼졌는지 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0158.wav", "sentence": "ECAM memo에서 Fire extinguished 메시지 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0159.wav", "sentence": "Engine fire 절차가 끝났어 Status page 확인 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0160.wav", "sentence": "엔진 화재 상황에서 Electrical power 분리 필요할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0161.wav", "sentence": "Hydraulic system 영향 있는지 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0162.wav", "sentence": "Pneumatic bleed air는 차단됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0163.wav", "sentence": "엔진 화재 진압 완료 후에도 Fuel balance 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0164.wav", "sentence": "엔진 화재 이후 Crossfeed valve 점검해"}
+{"audio": "../voices/Lora_Dataset/seg_0165.wav", "sentence": "엔진 화재 절차 수행 중 Checklist crosscheck하자"}
+{"audio": "../voices/Lora_Dataset/seg_0166.wav", "sentence": "Challenge and response 방식으로 절차 진행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0167.wav", "sentence": "Engine fire checklist step by step 따라가고 있어"}
+{"audio": "../voices/Lora_Dataset/seg_0168.wav", "sentence": "QRH 절차와 ECAM 메시지 불일치하는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0169.wav", "sentence": "Manual procedure 필요한지 확인하자"}
+{"audio": "../voices/Lora_Dataset/seg_0170.wav", "sentence": "좌측 엔진 화재 절차 끝났어 Now engine secured"}
+{"audio": "../voices/Lora_Dataset/seg_0171.wav", "sentence": "비상 상황에서 ATC와 계속 통신 유지하자"}
+{"audio": "../voices/Lora_Dataset/seg_0172.wav", "sentence": "Cabin altitude check도 같이 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0173.wav", "sentence": "화재 절차 중에 Electrical load shedding 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0174.wav", "sentence": "엔진 화재 절차에서 Generator trip 여부 확인"}
+{"audio": "../voices/Lora_Dataset/seg_0175.wav", "sentence": "엔진 화재 절차 중에 Fuel pumps off 했지?"}
+{"audio": "../voices/Lora_Dataset/seg_0176.wav", "sentence": "Hydraulic pumps 영향 받았는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0177.wav", "sentence": "엔진 화재 진압되면 Resume normal operation 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0178.wav", "sentence": "엔진 화재가 기체 구조에 손상 줬는지 확인 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0179.wav", "sentence": "Fire extinguishing 완료 후 Maintenance log 기록해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0180.wav", "sentence": "비행 종료 후 Fire extinguisher pressure 확인할 것"}
+{"audio": "../voices/Lora_Dataset/seg_0181.wav", "sentence": "엔진 화재 절차 훈련 덕분에 신속하게 대응했어"}
+{"audio": "../voices/Lora_Dataset/seg_0182.wav", "sentence": "비행 기록계에 Engine fire event 기록됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0183.wav", "sentence": "Flight data recorder에 Fire warning 저장 확인해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0184.wav", "sentence": "좌측 엔진 화재 절차 마무리됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0185.wav", "sentence": "Return to base 결정하고 Approach briefing 시작"}
+{"audio": "../voices/Lora_Dataset/seg_0186.wav", "sentence": "Emergency evacuation 필요할 수 있어 준비하자"}
+{"audio": "../voices/Lora_Dataset/seg_0187.wav", "sentence": "착륙 후 Fire service 요청해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0188.wav", "sentence": "지상 활주 중에도 Fire warning 다시 오나 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0189.wav", "sentence": "Engine fire extinguished 메시지 확인 최종 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0190.wav", "sentence": "모든 절차 끝났어 Now aircraft under control"}
+{"audio": "../voices/Lora_Dataset/seg_0191.wav", "sentence": "좌측 엔진에서 Fire warning light가 켜졌어 첫 번째 절차가 뭐야"}
+{"audio": "../voices/Lora_Dataset/seg_0192.wav", "sentence": "Left engine fire 경고음이 울리고 있어 Thrust lever는 어떻게 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0193.wav", "sentence": "좌측 엔진 화재 신호 들어왔어 엔진 출력 먼저 줄여야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0194.wav", "sentence": "Thrust lever를 IDLE로 옮겨야 하지 않아"}
+{"audio": "../voices/Lora_Dataset/seg_0195.wav", "sentence": "좌측 엔진 화재 경고 확인됐어 Engine master switch 끄는 게 맞지"}
+{"audio": "../voices/Lora_Dataset/seg_0196.wav", "sentence": "엔진 화재 발생 시 Engine fire pushbutton을 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0197.wav", "sentence": "엔진 화재 소화기 방출 준비됐어 Fire extinguisher handle 잡아"}
+{"audio": "../voices/Lora_Dataset/seg_0198.wav", "sentence": "좌측 엔진 화재 진압 절차 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0199.wav", "sentence": "연료 차단했어 이제 Fire bottle 방출할까"}
+{"audio": "../voices/Lora_Dataset/seg_0200.wav", "sentence": "좌측 엔진이 계속 불타고 있어 두 번째 소화기 방출해야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0201.wav", "sentence": "오른쪽 엔진에서 화재 경고 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0202.wav", "sentence": "Right engine fire warning light가 켜졌는데 맞아?"}
+{"audio": "../voices/Lora_Dataset/seg_0203.wav", "sentence": "오른쪽 엔진 화재 발생했어 Thrust lever idle로 낮춰"}
+{"audio": "../voices/Lora_Dataset/seg_0204.wav", "sentence": "엔진 화재 시 Engine master switch는 바로 OFF로 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0205.wav", "sentence": "Right engine fire extinguishing 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0206.wav", "sentence": "엔진 화재 진압을 위해 Extinguisher 버튼 눌러"}
+{"audio": "../voices/Lora_Dataset/seg_0207.wav", "sentence": "첫 번째 병으로 진화 안 되면 Second bottle 사용해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0208.wav", "sentence": "엔진 화재 상황이 진화됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0209.wav", "sentence": "엔진 경고등이 꺼졌어 화재 진압된 것 같아"}
+{"audio": "../voices/Lora_Dataset/seg_0210.wav", "sentence": "좌측 엔진 연료 공급 차단됐는지 다시 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0211.wav", "sentence": "화재 절차 중에 전기 계통도 영향을 받을 수 있지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0212.wav", "sentence": "APU fire 경고 들어왔어 어떻게 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0213.wav", "sentence": "APU master switch 끄고 fire extinguisher 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0214.wav", "sentence": "APU fire extinguishing bottle 방출해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0215.wav", "sentence": "APU fire warning light 꺼졌는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0216.wav", "sentence": "Cabin fire smoke 감지됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0217.wav", "sentence": "Cabin fire 발생 시 Oxygen mask 착용해야지"}
+{"audio": "../voices/Lora_Dataset/seg_0218.wav", "sentence": "Cabin fire 절차 수행 중이야 Passenger oxygen도 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0219.wav", "sentence": "Avionics smoke 경고 들어왔어 전원 차단할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0220.wav", "sentence": "Cargo compartment fire warning 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0221.wav", "sentence": "Cargo smoke detected 메시지가 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0222.wav", "sentence": "Cargo fire extinguishing switch 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0223.wav", "sentence": "Cargo bottle 방출 절차 수행해"}
+{"audio": "../voices/Lora_Dataset/seg_0224.wav", "sentence": "화재가 진화될 때까지 Cabin pressure 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0225.wav", "sentence": "Cockpit smoke 발생했어 Ventilation 바꿔야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0226.wav", "sentence": "Emergency descent도 준비해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0227.wav", "sentence": "Engine fire handle 당겨야 하지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0228.wav", "sentence": "Engine fire handle을 당기면 Fuel, Hydraulic, Bleed 다 차단돼"}
+{"audio": "../voices/Lora_Dataset/seg_0229.wav", "sentence": "Fire extinguisher discharge 절차 준비됐지?"}
+{"audio": "../voices/Lora_Dataset/seg_0230.wav", "sentence": "좌측 엔진 화재 확인됐어 Engine fire checklist 실행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0231.wav", "sentence": "QRH에서 Engine fire 절차 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0232.wav", "sentence": "ECAM 지시에 따라 Engine fire procedure 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0233.wav", "sentence": "화재 경고음이 계속 울리고 있어 소음 차단 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0234.wav", "sentence": "엔진 화재 중에 ATC에 Mayday 선언해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0235.wav", "sentence": "좌측 엔진 화재 발생 Mayday Mayday Mayday"}
+{"audio": "../voices/Lora_Dataset/seg_0236.wav", "sentence": "ATC에 좌측 엔진 화재 상황 통보했어"}
+{"audio": "../voices/Lora_Dataset/seg_0237.wav", "sentence": "비상 절차 수행 후 Return to base 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0238.wav", "sentence": "긴급 착륙을 위한 Checklist 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0239.wav", "sentence": "Emergency landing gear extension 고려해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0240.wav", "sentence": "Single engine approach 준비 시작할게"}
+{"audio": "../voices/Lora_Dataset/seg_0241.wav", "sentence": "좌측 엔진 화재로 엔진 정지됐어 Single engine으로 간다"}
+{"audio": "../voices/Lora_Dataset/seg_0242.wav", "sentence": "엔진 성능 저하 감지돼 계속 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0243.wav", "sentence": "엔진 출력 불안정해 계속 Thrust 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0244.wav", "sentence": "엔진 vibration limit 초과됐어 바로 절차 들어가야지"}
+{"audio": "../voices/Lora_Dataset/seg_0245.wav", "sentence": "엔진 화재 경고는 꺼졌지만 냄새가 계속 나"}
+{"audio": "../voices/Lora_Dataset/seg_0246.wav", "sentence": "냄새와 연기가 남아 있으면 Ventilation 조정해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0247.wav", "sentence": "Cabin crew에게 상황 알리고 준비시키자"}
+{"audio": "../voices/Lora_Dataset/seg_0248.wav", "sentence": "Passenger에게 상황 브리핑해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0249.wav", "sentence": "좌석 벨트 사인 켰어 승객 안전 확보 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0250.wav", "sentence": "Fire extinguisher 방출 후 Pressure indication 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0251.wav", "sentence": "Extinguisher discharge light 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0252.wav", "sentence": "Fire handle light 꺼졌는지 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0253.wav", "sentence": "ECAM memo에서 Fire extinguished 메시지 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0254.wav", "sentence": "Engine fire 절차가 끝났어 Status page 확인 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0255.wav", "sentence": "엔진 화재 상황에서 Electrical power 분리 필요할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0256.wav", "sentence": "Hydraulic system 영향 있는지 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0257.wav", "sentence": "Pneumatic bleed air는 차단됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0258.wav", "sentence": "엔진 화재 진압 완료 후에도 Fuel balance 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0259.wav", "sentence": "엔진 화재 이후 Crossfeed valve 점검해"}
+{"audio": "../voices/Lora_Dataset/seg_0260.wav", "sentence": "엔진 화재 절차 수행 중 Checklist crosscheck하자"}
+{"audio": "../voices/Lora_Dataset/seg_0261.wav", "sentence": "Challenge and response 방식으로 절차 진행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0262.wav", "sentence": "Engine fire checklist step by step 따라가고 있어"}
+{"audio": "../voices/Lora_Dataset/seg_0263.wav", "sentence": "QRH 절차와 ECAM 메시지 불일치하는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0264.wav", "sentence": "Manual procedure 필요한지 확인하자"}
+{"audio": "../voices/Lora_Dataset/seg_0265.wav", "sentence": "좌측 엔진 화재 절차 끝났어 Now engine secured"}
+{"audio": "../voices/Lora_Dataset/seg_0266.wav", "sentence": "비상 상황에서 ATC와 계속 통신 유지하자"}
+{"audio": "../voices/Lora_Dataset/seg_0267.wav", "sentence": "Cabin altitude check도 같이 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0268.wav", "sentence": "화재 절차 중에 Electrical load shedding 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0269.wav", "sentence": "엔진 화재 절차에서 Generator trip 여부 확인"}
+{"audio": "../voices/Lora_Dataset/seg_0270.wav", "sentence": "엔진 화재 절차 중에 Fuel pumps off 했지?"}
+{"audio": "../voices/Lora_Dataset/seg_0271.wav", "sentence": "Hydraulic pumps 영향 받았는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0272.wav", "sentence": "엔진 화재 진압되면 Resume normal operation 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0273.wav", "sentence": "엔진 화재가 기체 구조에 손상 줬는지 확인 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0274.wav", "sentence": "Fire extinguishing 완료 후 Maintenance log 기록해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0275.wav", "sentence": "비행 종료 후 Fire extinguisher pressure 확인할 것"}
+{"audio": "../voices/Lora_Dataset/seg_0276.wav", "sentence": "엔진 화재 절차 훈련 덕분에 신속하게 대응했어"}
+{"audio": "../voices/Lora_Dataset/seg_0277.wav", "sentence": "비행 기록계에 Engine fire event 기록됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0278.wav", "sentence": "Flight data recorder에 Fire warning 저장 확인해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0279.wav", "sentence": "좌측 엔진 화재 절차 마무리됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0280.wav", "sentence": "Return to base 결정하고 Approach briefing 시작"}
+{"audio": "../voices/Lora_Dataset/seg_0281.wav", "sentence": "Emergency evacuation 필요할 수 있어 준비하자"}
+{"audio": "../voices/Lora_Dataset/seg_0282.wav", "sentence": "착륙 후 Fire service 요청해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0283.wav", "sentence": "지상 활주 중에도 Fire warning 다시 오나 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0284.wav", "sentence": "Engine fire extinguished 메시지 확인 최종 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0285.wav", "sentence": "모든 절차 끝났어 Now aircraft under control"}
+{"audio": "../voices/Lora_Dataset/seg_0286.wav", "sentence": "좌측 엔진에서 Fire warning light가 켜졌어 첫 번째 절차가 뭐야"}
+{"audio": "../voices/Lora_Dataset/seg_0287.wav", "sentence": "Left engine fire 경고음이 울리고 있어 Thrust lever는 어떻게 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0288.wav", "sentence": "좌측 엔진 화재 신호 들어왔어 엔진 출력 먼저 줄여야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0289.wav", "sentence": "Thrust lever를 IDLE로 옮겨야 하지 않아"}
+{"audio": "../voices/Lora_Dataset/seg_0290.wav", "sentence": "좌측 엔진 화재 경고 확인됐어 Engine master switch 끄는 게 맞지"}
+{"audio": "../voices/Lora_Dataset/seg_0291.wav", "sentence": "엔진 화재 발생 시 Engine fire pushbutton을 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0292.wav", "sentence": "엔진 화재 소화기 방출 준비됐어 Fire extinguisher handle 잡아"}
+{"audio": "../voices/Lora_Dataset/seg_0293.wav", "sentence": "좌측 엔진 화재 진압 절차 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0294.wav", "sentence": "연료 차단했어 이제 Fire bottle 방출할까"}
+{"audio": "../voices/Lora_Dataset/seg_0295.wav", "sentence": "좌측 엔진이 계속 불타고 있어 두 번째 소화기 방출해야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0296.wav", "sentence": "오른쪽 엔진에서 화재 경고 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0297.wav", "sentence": "Right engine fire warning light가 켜졌는데 맞아?"}
+{"audio": "../voices/Lora_Dataset/seg_0298.wav", "sentence": "오른쪽 엔진 화재 발생했어 Thrust lever idle로 낮춰"}
+{"audio": "../voices/Lora_Dataset/seg_0299.wav", "sentence": "엔진 화재 시 Engine master switch는 바로 OFF로 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0300.wav", "sentence": "Right engine fire extinguishing 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0301.wav", "sentence": "엔진 화재 진압을 위해 Extinguisher 버튼 눌러"}
+{"audio": "../voices/Lora_Dataset/seg_0302.wav", "sentence": "첫 번째 병으로 진화 안 되면 Second bottle 사용해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0303.wav", "sentence": "엔진 화재 상황이 진화됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0304.wav", "sentence": "엔진 경고등이 꺼졌어 화재 진압된 것 같아"}
+{"audio": "../voices/Lora_Dataset/seg_0305.wav", "sentence": "좌측 엔진 연료 공급 차단됐는지 다시 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0306.wav", "sentence": "화재 절차 중에 전기 계통도 영향을 받을 수 있지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0307.wav", "sentence": "APU fire 경고 들어왔어 어떻게 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0308.wav", "sentence": "APU master switch 끄고 fire extinguisher 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0309.wav", "sentence": "APU fire extinguishing bottle 방출해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0310.wav", "sentence": "APU fire warning light 꺼졌는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0311.wav", "sentence": "Cabin fire smoke 감지됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0312.wav", "sentence": "Cabin fire 발생 시 Oxygen mask 착용해야지"}
+{"audio": "../voices/Lora_Dataset/seg_0313.wav", "sentence": "Cabin fire 절차 수행 중이야 Passenger oxygen도 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0314.wav", "sentence": "Avionics smoke 경고 들어왔어 전원 차단할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0315.wav", "sentence": "Cargo compartment fire warning 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0316.wav", "sentence": "Cargo smoke detected 메시지가 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0317.wav", "sentence": "Cargo fire extinguishing switch 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0318.wav", "sentence": "Cargo bottle 방출 절차 수행해"}
+{"audio": "../voices/Lora_Dataset/seg_0319.wav", "sentence": "화재가 진화될 때까지 Cabin pressure 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0320.wav", "sentence": "Cockpit smoke 발생했어 Ventilation 바꿔야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0321.wav", "sentence": "Emergency descent도 준비해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0322.wav", "sentence": "Engine fire handle 당겨야 하지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0323.wav", "sentence": "Engine fire handle을 당기면 Fuel, Hydraulic, Bleed 다 차단돼"}
+{"audio": "../voices/Lora_Dataset/seg_0324.wav", "sentence": "Fire extinguisher discharge 절차 준비됐지?"}
+{"audio": "../voices/Lora_Dataset/seg_0325.wav", "sentence": "좌측 엔진 화재 확인됐어 Engine fire checklist 실행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0326.wav", "sentence": "QRH에서 Engine fire 절차 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0327.wav", "sentence": "ECAM 지시에 따라 Engine fire procedure 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0328.wav", "sentence": "화재 경고음이 계속 울리고 있어 소음 차단 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0329.wav", "sentence": "엔진 화재 중에 ATC에 Mayday 선언해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0330.wav", "sentence": "좌측 엔진 화재 발생 Mayday Mayday Mayday"}
+{"audio": "../voices/Lora_Dataset/seg_0331.wav", "sentence": "ATC에 좌측 엔진 화재 상황 통보했어"}
+{"audio": "../voices/Lora_Dataset/seg_0332.wav", "sentence": "비상 절차 수행 후 Return to base 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0333.wav", "sentence": "긴급 착륙을 위한 Checklist 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0334.wav", "sentence": "Emergency landing gear extension 고려해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0335.wav", "sentence": "Single engine approach 준비 시작할게"}
+{"audio": "../voices/Lora_Dataset/seg_0336.wav", "sentence": "좌측 엔진 화재로 엔진 정지됐어 Single engine으로 간다"}
+{"audio": "../voices/Lora_Dataset/seg_0337.wav", "sentence": "엔진 성능 저하 감지돼 계속 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0338.wav", "sentence": "엔진 출력 불안정해 계속 Thrust 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0339.wav", "sentence": "엔진 vibration limit 초과됐어 바로 절차 들어가야지"}
+{"audio": "../voices/Lora_Dataset/seg_0340.wav", "sentence": "엔진 화재 경고는 꺼졌지만 냄새가 계속 나"}
+{"audio": "../voices/Lora_Dataset/seg_0341.wav", "sentence": "냄새와 연기가 남아 있으면 Ventilation 조정해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0342.wav", "sentence": "Cabin crew에게 상황 알리고 준비시키자"}
+{"audio": "../voices/Lora_Dataset/seg_0343.wav", "sentence": "Passenger에게 상황 브리핑해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0344.wav", "sentence": "좌석 벨트 사인 켰어 승객 안전 확보 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0345.wav", "sentence": "Fire extinguisher 방출 후 Pressure indication 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0346.wav", "sentence": "Extinguisher discharge light 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0347.wav", "sentence": "Fire handle light 꺼졌는지 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0348.wav", "sentence": "ECAM memo에서 Fire extinguished 메시지 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0349.wav", "sentence": "Engine fire 절차가 끝났어 Status page 확인 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0350.wav", "sentence": "엔진 화재 상황에서 Electrical power 분리 필요할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0351.wav", "sentence": "Hydraulic system 영향 있는지 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0352.wav", "sentence": "Pneumatic bleed air는 차단됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0353.wav", "sentence": "엔진 화재 진압 완료 후에도 Fuel balance 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0354.wav", "sentence": "엔진 화재 이후 Crossfeed valve 점검해"}
+{"audio": "../voices/Lora_Dataset/seg_0355.wav", "sentence": "엔진 화재 절차 수행 중 Checklist crosscheck하자"}
+{"audio": "../voices/Lora_Dataset/seg_0356.wav", "sentence": "Challenge and response 방식으로 절차 진행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0357.wav", "sentence": "Engine fire checklist step by step 따라가고 있어"}
+{"audio": "../voices/Lora_Dataset/seg_0358.wav", "sentence": "QRH 절차와 ECAM 메시지 불일치하는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0359.wav", "sentence": "Manual procedure 필요한지 확인하자"}
+{"audio": "../voices/Lora_Dataset/seg_0360.wav", "sentence": "좌측 엔진 화재 절차 끝났어 Now engine secured"}
+{"audio": "../voices/Lora_Dataset/seg_0361.wav", "sentence": "비상 상황에서 ATC와 계속 통신 유지하자"}
+{"audio": "../voices/Lora_Dataset/seg_0362.wav", "sentence": "Cabin altitude check도 같이 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0363.wav", "sentence": "화재 절차 중에 Electrical load shedding 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0364.wav", "sentence": "엔진 화재 절차에서 Generator trip 여부 확인"}
+{"audio": "../voices/Lora_Dataset/seg_0365.wav", "sentence": "엔진 화재 절차 중에 Fuel pumps off 했지?"}
+{"audio": "../voices/Lora_Dataset/seg_0366.wav", "sentence": "Hydraulic pumps 영향 받았는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0367.wav", "sentence": "엔진 화재 진압되면 Resume normal operation 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0368.wav", "sentence": "엔진 화재가 기체 구조에 손상 줬는지 확인 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0369.wav", "sentence": "Fire extinguishing 완료 후 Maintenance log 기록해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0370.wav", "sentence": "비행 종료 후 Fire extinguisher pressure 확인할 것"}
+{"audio": "../voices/Lora_Dataset/seg_0371.wav", "sentence": "엔진 화재 절차 훈련 덕분에 신속하게 대응했어"}
+{"audio": "../voices/Lora_Dataset/seg_0372.wav", "sentence": "비행 기록계에 Engine fire event 기록됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0373.wav", "sentence": "Flight data recorder에 Fire warning 저장 확인해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0374.wav", "sentence": "좌측 엔진 화재 절차 마무리됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0375.wav", "sentence": "Return to base 결정하고 Approach briefing 시작"}
+{"audio": "../voices/Lora_Dataset/seg_0376.wav", "sentence": "Emergency evacuation 필요할 수 있어 준비하자"}
+{"audio": "../voices/Lora_Dataset/seg_0377.wav", "sentence": "착륙 후 Fire service 요청해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0378.wav", "sentence": "지상 활주 중에도 Fire warning 다시 오나 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0379.wav", "sentence": "Engine fire extinguished 메시지 확인 최종 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0380.wav", "sentence": "모든 절차 끝났어 Now aircraft under control"}
+{"audio": "../voices/Lora_Dataset/seg_0381.wav", "sentence": "좌측 엔진에서 Fire warning light가 켜졌어 첫 번째 절차가 뭐야"}
+{"audio": "../voices/Lora_Dataset/seg_0382.wav", "sentence": "Left engine fire 경고음이 울리고 있어 Thrust lever는 어떻게 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0383.wav", "sentence": "좌측 엔진 화재 신호 들어왔어 엔진 출력 먼저 줄여야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0384.wav", "sentence": "Thrust lever를 IDLE로 옮겨야 하지 않아"}
+{"audio": "../voices/Lora_Dataset/seg_0385.wav", "sentence": "좌측 엔진 화재 경고 확인됐어 Engine master switch 끄는 게 맞지"}
+{"audio": "../voices/Lora_Dataset/seg_0386.wav", "sentence": "엔진 화재 발생 시 Engine fire pushbutton을 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0387.wav", "sentence": "엔진 화재 소화기 방출 준비됐어 Fire extinguisher handle 잡아"}
+{"audio": "../voices/Lora_Dataset/seg_0388.wav", "sentence": "좌측 엔진 화재 진압 절차 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0389.wav", "sentence": "연료 차단했어 이제 Fire bottle 방출할까"}
+{"audio": "../voices/Lora_Dataset/seg_0390.wav", "sentence": "좌측 엔진이 계속 불타고 있어 두 번째 소화기 방출해야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0391.wav", "sentence": "오른쪽 엔진에서 화재 경고 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0392.wav", "sentence": "Right engine fire warning light가 켜졌는데 맞아?"}
+{"audio": "../voices/Lora_Dataset/seg_0393.wav", "sentence": "오른쪽 엔진 화재 발생했어 Thrust lever idle로 낮춰"}
+{"audio": "../voices/Lora_Dataset/seg_0394.wav", "sentence": "엔진 화재 시 Engine master switch는 바로 OFF로 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0395.wav", "sentence": "Right engine fire extinguishing 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0396.wav", "sentence": "엔진 화재 진압을 위해 Extinguisher 버튼 눌러"}
+{"audio": "../voices/Lora_Dataset/seg_0397.wav", "sentence": "첫 번째 병으로 진화 안 되면 Second bottle 사용해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0398.wav", "sentence": "엔진 화재 상황이 진화됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0399.wav", "sentence": "엔진 경고등이 꺼졌어 화재 진압된 것 같아"}
+{"audio": "../voices/Lora_Dataset/seg_0400.wav", "sentence": "좌측 엔진 연료 공급 차단됐는지 다시 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0401.wav", "sentence": "화재 절차 중에 전기 계통도 영향을 받을 수 있지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0402.wav", "sentence": "APU fire 경고 들어왔어 어떻게 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0403.wav", "sentence": "APU master switch 끄고 fire extinguisher 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0404.wav", "sentence": "APU fire extinguishing bottle 방출해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0405.wav", "sentence": "APU fire warning light 꺼졌는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0406.wav", "sentence": "Cabin fire smoke 감지됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0407.wav", "sentence": "Cabin fire 발생 시 Oxygen mask 착용해야지"}
+{"audio": "../voices/Lora_Dataset/seg_0408.wav", "sentence": "Cabin fire 절차 수행 중이야 Passenger oxygen도 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0409.wav", "sentence": "Avionics smoke 경고 들어왔어 전원 차단할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0410.wav", "sentence": "Cargo compartment fire warning 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0411.wav", "sentence": "Cargo smoke detected 메시지가 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0412.wav", "sentence": "Cargo fire extinguishing switch 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0413.wav", "sentence": "Cargo bottle 방출 절차 수행해"}
+{"audio": "../voices/Lora_Dataset/seg_0414.wav", "sentence": "화재가 진화될 때까지 Cabin pressure 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0415.wav", "sentence": "Cockpit smoke 발생했어 Ventilation 바꿔야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0416.wav", "sentence": "Emergency descent도 준비해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0417.wav", "sentence": "Engine fire handle 당겨야 하지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0418.wav", "sentence": "Engine fire handle을 당기면 Fuel, Hydraulic, Bleed 다 차단돼"}
+{"audio": "../voices/Lora_Dataset/seg_0419.wav", "sentence": "Fire extinguisher discharge 절차 준비됐지?"}
+{"audio": "../voices/Lora_Dataset/seg_0420.wav", "sentence": "좌측 엔진 화재 확인됐어 Engine fire checklist 실행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0421.wav", "sentence": "QRH에서 Engine fire 절차 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0422.wav", "sentence": "ECAM 지시에 따라 Engine fire procedure 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0423.wav", "sentence": "화재 경고음이 계속 울리고 있어 소음 차단 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0424.wav", "sentence": "엔진 화재 중에 ATC에 Mayday 선언해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0425.wav", "sentence": "좌측 엔진 화재 발생 Mayday Mayday Mayday"}
+{"audio": "../voices/Lora_Dataset/seg_0426.wav", "sentence": "ATC에 좌측 엔진 화재 상황 통보했어"}
+{"audio": "../voices/Lora_Dataset/seg_0427.wav", "sentence": "비상 절차 수행 후 Return to base 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0428.wav", "sentence": "긴급 착륙을 위한 Checklist 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0429.wav", "sentence": "Emergency landing gear extension 고려해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0430.wav", "sentence": "Single engine approach 준비 시작할게"}
+{"audio": "../voices/Lora_Dataset/seg_0431.wav", "sentence": "좌측 엔진 화재로 엔진 정지됐어 Single engine으로 간다"}
+{"audio": "../voices/Lora_Dataset/seg_0432.wav", "sentence": "엔진 성능 저하 감지돼 계속 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0433.wav", "sentence": "엔진 출력 불안정해 계속 Thrust 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0434.wav", "sentence": "엔진 vibration limit 초과됐어 바로 절차 들어가야지"}
+{"audio": "../voices/Lora_Dataset/seg_0435.wav", "sentence": "엔진 화재 경고는 꺼졌지만 냄새가 계속 나"}
+{"audio": "../voices/Lora_Dataset/seg_0436.wav", "sentence": "냄새와 연기가 남아 있으면 Ventilation 조정해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0437.wav", "sentence": "Cabin crew에게 상황 알리고 준비시키자"}
+{"audio": "../voices/Lora_Dataset/seg_0438.wav", "sentence": "Passenger에게 상황 브리핑해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0439.wav", "sentence": "좌석 벨트 사인 켰어 승객 안전 확보 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0440.wav", "sentence": "Fire extinguisher 방출 후 Pressure indication 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0441.wav", "sentence": "Extinguisher discharge light 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0442.wav", "sentence": "Fire handle light 꺼졌는지 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0443.wav", "sentence": "ECAM memo에서 Fire extinguished 메시지 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0444.wav", "sentence": "Engine fire 절차가 끝났어 Status page 확인 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0445.wav", "sentence": "엔진 화재 상황에서 Electrical power 분리 필요할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0446.wav", "sentence": "Hydraulic system 영향 있는지 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0447.wav", "sentence": "Pneumatic bleed air는 차단됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0448.wav", "sentence": "엔진 화재 진압 완료 후에도 Fuel balance 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0449.wav", "sentence": "엔진 화재 이후 Crossfeed valve 점검해"}
+{"audio": "../voices/Lora_Dataset/seg_0450.wav", "sentence": "엔진 화재 절차 수행 중 Checklist crosscheck하자"}
+{"audio": "../voices/Lora_Dataset/seg_0451.wav", "sentence": "Challenge and response 방식으로 절차 진행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0452.wav", "sentence": "Engine fire checklist step by step 따라가고 있어"}
+{"audio": "../voices/Lora_Dataset/seg_0453.wav", "sentence": "QRH 절차와 ECAM 메시지 불일치하는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0454.wav", "sentence": "Manual procedure 필요한지 확인하자"}
+{"audio": "../voices/Lora_Dataset/seg_0455.wav", "sentence": "좌측 엔진 화재 절차 끝났어 Now engine secured"}
+{"audio": "../voices/Lora_Dataset/seg_0456.wav", "sentence": "비상 상황에서 ATC와 계속 통신 유지하자"}
+{"audio": "../voices/Lora_Dataset/seg_0457.wav", "sentence": "Cabin altitude check도 같이 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0458.wav", "sentence": "화재 절차 중에 Electrical load shedding 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0459.wav", "sentence": "엔진 화재 절차에서 Generator trip 여부 확인"}
+{"audio": "../voices/Lora_Dataset/seg_0460.wav", "sentence": "엔진 화재 절차 중에 Fuel pumps off 했지?"}
+{"audio": "../voices/Lora_Dataset/seg_0461.wav", "sentence": "Hydraulic pumps 영향 받았는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0462.wav", "sentence": "엔진 화재 진압되면 Resume normal operation 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0463.wav", "sentence": "엔진 화재가 기체 구조에 손상 줬는지 확인 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0464.wav", "sentence": "Fire extinguishing 완료 후 Maintenance log 기록해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0465.wav", "sentence": "비행 종료 후 Fire extinguisher pressure 확인할 것"}
+{"audio": "../voices/Lora_Dataset/seg_0466.wav", "sentence": "엔진 화재 절차 훈련 덕분에 신속하게 대응했어"}
+{"audio": "../voices/Lora_Dataset/seg_0467.wav", "sentence": "비행 기록계에 Engine fire event 기록됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0468.wav", "sentence": "Flight data recorder에 Fire warning 저장 확인해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0469.wav", "sentence": "좌측 엔진 화재 절차 마무리됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0470.wav", "sentence": "Return to base 결정하고 Approach briefing 시작"}
+{"audio": "../voices/Lora_Dataset/seg_0471.wav", "sentence": "Emergency evacuation 필요할 수 있어 준비하자"}
+{"audio": "../voices/Lora_Dataset/seg_0472.wav", "sentence": "착륙 후 Fire service 요청해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0473.wav", "sentence": "지상 활주 중에도 Fire warning 다시 오나 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0474.wav", "sentence": "Engine fire extinguished 메시지 확인 최종 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0475.wav", "sentence": "모든 절차 끝났어 Now aircraft under control"}
+{"audio": "../voices/Lora_Dataset/seg_0476.wav", "sentence": "좌측 엔진에서 Fire warning light가 켜졌어 첫 번째 절차가 뭐야"}
+{"audio": "../voices/Lora_Dataset/seg_0477.wav", "sentence": "Left engine fire 경고음이 울리고 있어 Thrust lever는 어떻게 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0478.wav", "sentence": "좌측 엔진 화재 신호 들어왔어 엔진 출력 먼저 줄여야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0479.wav", "sentence": "Thrust lever를 IDLE로 옮겨야 하지 않아"}
+{"audio": "../voices/Lora_Dataset/seg_0480.wav", "sentence": "좌측 엔진 화재 경고 확인됐어 Engine master switch 끄는 게 맞지"}
+{"audio": "../voices/Lora_Dataset/seg_0481.wav", "sentence": "엔진 화재 발생 시 Engine fire pushbutton을 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0482.wav", "sentence": "엔진 화재 소화기 방출 준비됐어 Fire extinguisher handle 잡아"}
+{"audio": "../voices/Lora_Dataset/seg_0483.wav", "sentence": "좌측 엔진 화재 진압 절차 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0484.wav", "sentence": "연료 차단했어 이제 Fire bottle 방출할까"}
+{"audio": "../voices/Lora_Dataset/seg_0485.wav", "sentence": "좌측 엔진이 계속 불타고 있어 두 번째 소화기 방출해야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0486.wav", "sentence": "오른쪽 엔진에서 화재 경고 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0487.wav", "sentence": "Right engine fire warning light가 켜졌는데 맞아?"}
+{"audio": "../voices/Lora_Dataset/seg_0488.wav", "sentence": "오른쪽 엔진 화재 발생했어 Thrust lever idle로 낮춰"}
+{"audio": "../voices/Lora_Dataset/seg_0489.wav", "sentence": "엔진 화재 시 Engine master switch는 바로 OFF로 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0490.wav", "sentence": "Right engine fire extinguishing 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0491.wav", "sentence": "엔진 화재 진압을 위해 Extinguisher 버튼 눌러"}
+{"audio": "../voices/Lora_Dataset/seg_0492.wav", "sentence": "첫 번째 병으로 진화 안 되면 Second bottle 사용해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0493.wav", "sentence": "엔진 화재 상황이 진화됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0494.wav", "sentence": "엔진 경고등이 꺼졌어 화재 진압된 것 같아"}
+{"audio": "../voices/Lora_Dataset/seg_0495.wav", "sentence": "좌측 엔진 연료 공급 차단됐는지 다시 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0496.wav", "sentence": "화재 절차 중에 전기 계통도 영향을 받을 수 있지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0497.wav", "sentence": "APU fire 경고 들어왔어 어떻게 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0498.wav", "sentence": "APU master switch 끄고 fire extinguisher 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0499.wav", "sentence": "APU fire extinguishing bottle 방출해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0500.wav", "sentence": "APU fire warning light 꺼졌는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0501.wav", "sentence": "Cabin fire smoke 감지됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0502.wav", "sentence": "Cabin fire 발생 시 Oxygen mask 착용해야지"}
+{"audio": "../voices/Lora_Dataset/seg_0503.wav", "sentence": "Cabin fire 절차 수행 중이야 Passenger oxygen도 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0504.wav", "sentence": "Avionics smoke 경고 들어왔어 전원 차단할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0505.wav", "sentence": "Cargo compartment fire warning 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0506.wav", "sentence": "Cargo smoke detected 메시지가 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0507.wav", "sentence": "Cargo fire extinguishing switch 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0508.wav", "sentence": "Cargo bottle 방출 절차 수행해"}
+{"audio": "../voices/Lora_Dataset/seg_0509.wav", "sentence": "화재가 진화될 때까지 Cabin pressure 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0510.wav", "sentence": "Cockpit smoke 발생했어 Ventilation 바꿔야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0511.wav", "sentence": "Emergency descent도 준비해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0512.wav", "sentence": "Engine fire handle 당겨야 하지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0513.wav", "sentence": "Engine fire handle을 당기면 Fuel, Hydraulic, Bleed 다 차단돼"}
+{"audio": "../voices/Lora_Dataset/seg_0514.wav", "sentence": "Fire extinguisher discharge 절차 준비됐지?"}
+{"audio": "../voices/Lora_Dataset/seg_0515.wav", "sentence": "좌측 엔진 화재 확인됐어 Engine fire checklist 실행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0516.wav", "sentence": "QRH에서 Engine fire 절차 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0517.wav", "sentence": "ECAM 지시에 따라 Engine fire procedure 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0518.wav", "sentence": "화재 경고음이 계속 울리고 있어 소음 차단 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0519.wav", "sentence": "엔진 화재 중에 ATC에 Mayday 선언해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0520.wav", "sentence": "좌측 엔진 화재 발생 Mayday Mayday Mayday"}
+{"audio": "../voices/Lora_Dataset/seg_0521.wav", "sentence": "ATC에 좌측 엔진 화재 상황 통보했어"}
+{"audio": "../voices/Lora_Dataset/seg_0522.wav", "sentence": "비상 절차 수행 후 Return to base 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0523.wav", "sentence": "긴급 착륙을 위한 Checklist 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0524.wav", "sentence": "Emergency landing gear extension 고려해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0525.wav", "sentence": "Single engine approach 준비 시작할게"}
+{"audio": "../voices/Lora_Dataset/seg_0526.wav", "sentence": "좌측 엔진 화재로 엔진 정지됐어 Single engine으로 간다"}
+{"audio": "../voices/Lora_Dataset/seg_0527.wav", "sentence": "엔진 성능 저하 감지돼 계속 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0528.wav", "sentence": "엔진 출력 불안정해 계속 Thrust 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0529.wav", "sentence": "엔진 vibration limit 초과됐어 바로 절차 들어가야지"}
+{"audio": "../voices/Lora_Dataset/seg_0530.wav", "sentence": "엔진 화재 경고는 꺼졌지만 냄새가 계속 나"}
+{"audio": "../voices/Lora_Dataset/seg_0531.wav", "sentence": "냄새와 연기가 남아 있으면 Ventilation 조정해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0532.wav", "sentence": "Cabin crew에게 상황 알리고 준비시키자"}
+{"audio": "../voices/Lora_Dataset/seg_0533.wav", "sentence": "Passenger에게 상황 브리핑해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0534.wav", "sentence": "좌석 벨트 사인 켰어 승객 안전 확보 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0535.wav", "sentence": "Fire extinguisher 방출 후 Pressure indication 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0536.wav", "sentence": "Extinguisher discharge light 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0537.wav", "sentence": "Fire handle light 꺼졌는지 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0538.wav", "sentence": "ECAM memo에서 Fire extinguished 메시지 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0539.wav", "sentence": "Engine fire 절차가 끝났어 Status page 확인 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0540.wav", "sentence": "엔진 화재 상황에서 Electrical power 분리 필요할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0541.wav", "sentence": "Hydraulic system 영향 있는지 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0542.wav", "sentence": "Pneumatic bleed air는 차단됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0543.wav", "sentence": "엔진 화재 진압 완료 후에도 Fuel balance 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0544.wav", "sentence": "엔진 화재 이후 Crossfeed valve 점검해"}
+{"audio": "../voices/Lora_Dataset/seg_0545.wav", "sentence": "엔진 화재 절차 수행 중 Checklist crosscheck하자"}
+{"audio": "../voices/Lora_Dataset/seg_0546.wav", "sentence": "Challenge and response 방식으로 절차 진행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0547.wav", "sentence": "Engine fire checklist step by step 따라가고 있어"}
+{"audio": "../voices/Lora_Dataset/seg_0548.wav", "sentence": "QRH 절차와 ECAM 메시지 불일치하는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0549.wav", "sentence": "Manual procedure 필요한지 확인하자"}
+{"audio": "../voices/Lora_Dataset/seg_0550.wav", "sentence": "좌측 엔진 화재 절차 끝났어 Now engine secured"}
+{"audio": "../voices/Lora_Dataset/seg_0551.wav", "sentence": "비상 상황에서 ATC와 계속 통신 유지하자"}
+{"audio": "../voices/Lora_Dataset/seg_0552.wav", "sentence": "Cabin altitude check도 같이 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0553.wav", "sentence": "화재 절차 중에 Electrical load shedding 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0554.wav", "sentence": "엔진 화재 절차에서 Generator trip 여부 확인"}
+{"audio": "../voices/Lora_Dataset/seg_0555.wav", "sentence": "엔진 화재 절차 중에 Fuel pumps off 했지?"}
+{"audio": "../voices/Lora_Dataset/seg_0556.wav", "sentence": "Hydraulic pumps 영향 받았는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0557.wav", "sentence": "엔진 화재 진압되면 Resume normal operation 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0558.wav", "sentence": "엔진 화재가 기체 구조에 손상 줬는지 확인 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0559.wav", "sentence": "Fire extinguishing 완료 후 Maintenance log 기록해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0560.wav", "sentence": "비행 종료 후 Fire extinguisher pressure 확인할 것"}
+{"audio": "../voices/Lora_Dataset/seg_0561.wav", "sentence": "엔진 화재 절차 훈련 덕분에 신속하게 대응했어"}
+{"audio": "../voices/Lora_Dataset/seg_0562.wav", "sentence": "비행 기록계에 Engine fire event 기록됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0563.wav", "sentence": "Flight data recorder에 Fire warning 저장 확인해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0564.wav", "sentence": "좌측 엔진 화재 절차 마무리됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0565.wav", "sentence": "Return to base 결정하고 Approach briefing 시작"}
+{"audio": "../voices/Lora_Dataset/seg_0566.wav", "sentence": "Emergency evacuation 필요할 수 있어 준비하자"}
+{"audio": "../voices/Lora_Dataset/seg_0567.wav", "sentence": "착륙 후 Fire service 요청해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0568.wav", "sentence": "지상 활주 중에도 Fire warning 다시 오나 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0569.wav", "sentence": "Engine fire extinguished 메시지 확인 최종 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0570.wav", "sentence": "모든 절차 끝났어 Now aircraft under control"}
+{"audio": "../voices/Lora_Dataset/seg_0571.wav", "sentence": "좌측 엔진에서 Fire warning light가 켜졌어 첫 번째 절차가 뭐야"}
+{"audio": "../voices/Lora_Dataset/seg_0572.wav", "sentence": "Left engine fire 경고음이 울리고 있어 Thrust lever는 어떻게 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0573.wav", "sentence": "좌측 엔진 화재 신호 들어왔어 엔진 출력 먼저 줄여야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0574.wav", "sentence": "Thrust lever를 IDLE로 옮겨야 하지 않아"}
+{"audio": "../voices/Lora_Dataset/seg_0575.wav", "sentence": "좌측 엔진 화재 경고 확인됐어 Engine master switch 끄는 게 맞지"}
+{"audio": "../voices/Lora_Dataset/seg_0576.wav", "sentence": "엔진 화재 발생 시 Engine fire pushbutton을 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0577.wav", "sentence": "엔진 화재 소화기 방출 준비됐어 Fire extinguisher handle 잡아"}
+{"audio": "../voices/Lora_Dataset/seg_0578.wav", "sentence": "좌측 엔진 화재 진압 절차 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0579.wav", "sentence": "연료 차단했어 이제 Fire bottle 방출할까"}
+{"audio": "../voices/Lora_Dataset/seg_0580.wav", "sentence": "좌측 엔진이 계속 불타고 있어 두 번째 소화기 방출해야겠지"}
+{"audio": "../voices/Lora_Dataset/seg_0581.wav", "sentence": "오른쪽 엔진에서 화재 경고 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0582.wav", "sentence": "Right engine fire warning light가 켜졌는데 맞아?"}
+{"audio": "../voices/Lora_Dataset/seg_0583.wav", "sentence": "오른쪽 엔진 화재 발생했어 Thrust lever idle로 낮춰"}
+{"audio": "../voices/Lora_Dataset/seg_0584.wav", "sentence": "엔진 화재 시 Engine master switch는 바로 OFF로 해야 하지"}
+{"audio": "../voices/Lora_Dataset/seg_0585.wav", "sentence": "Right engine fire extinguishing 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0586.wav", "sentence": "엔진 화재 진압을 위해 Extinguisher 버튼 눌러"}
+{"audio": "../voices/Lora_Dataset/seg_0587.wav", "sentence": "첫 번째 병으로 진화 안 되면 Second bottle 사용해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0588.wav", "sentence": "엔진 화재 상황이 진화됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0589.wav", "sentence": "엔진 경고등이 꺼졌어 화재 진압된 것 같아"}
+{"audio": "../voices/Lora_Dataset/seg_0590.wav", "sentence": "좌측 엔진 연료 공급 차단됐는지 다시 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0591.wav", "sentence": "화재 절차 중에 전기 계통도 영향을 받을 수 있지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0592.wav", "sentence": "APU fire 경고 들어왔어 어떻게 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0593.wav", "sentence": "APU master switch 끄고 fire extinguisher 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0594.wav", "sentence": "APU fire extinguishing bottle 방출해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0595.wav", "sentence": "APU fire warning light 꺼졌는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0596.wav", "sentence": "Cabin fire smoke 감지됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0597.wav", "sentence": "Cabin fire 발생 시 Oxygen mask 착용해야지"}
+{"audio": "../voices/Lora_Dataset/seg_0598.wav", "sentence": "Cabin fire 절차 수행 중이야 Passenger oxygen도 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0599.wav", "sentence": "Avionics smoke 경고 들어왔어 전원 차단할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0600.wav", "sentence": "Cargo compartment fire warning 들어왔어 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0601.wav", "sentence": "Cargo smoke detected 메시지가 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0602.wav", "sentence": "Cargo fire extinguishing switch 눌러야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0603.wav", "sentence": "Cargo bottle 방출 절차 수행해"}
+{"audio": "../voices/Lora_Dataset/seg_0604.wav", "sentence": "화재가 진화될 때까지 Cabin pressure 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0605.wav", "sentence": "Cockpit smoke 발생했어 Ventilation 바꿔야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0606.wav", "sentence": "Emergency descent도 준비해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0607.wav", "sentence": "Engine fire handle 당겨야 하지 않아?"}
+{"audio": "../voices/Lora_Dataset/seg_0608.wav", "sentence": "Engine fire handle을 당기면 Fuel, Hydraulic, Bleed 다 차단돼"}
+{"audio": "../voices/Lora_Dataset/seg_0609.wav", "sentence": "Fire extinguisher discharge 절차 준비됐지?"}
+{"audio": "../voices/Lora_Dataset/seg_0610.wav", "sentence": "좌측 엔진 화재 확인됐어 Engine fire checklist 실행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0611.wav", "sentence": "QRH에서 Engine fire 절차 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0612.wav", "sentence": "ECAM 지시에 따라 Engine fire procedure 진행 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0613.wav", "sentence": "화재 경고음이 계속 울리고 있어 소음 차단 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0614.wav", "sentence": "엔진 화재 중에 ATC에 Mayday 선언해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0615.wav", "sentence": "좌측 엔진 화재 발생 Mayday Mayday Mayday"}
+{"audio": "../voices/Lora_Dataset/seg_0616.wav", "sentence": "ATC에 좌측 엔진 화재 상황 통보했어"}
+{"audio": "../voices/Lora_Dataset/seg_0617.wav", "sentence": "비상 절차 수행 후 Return to base 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0618.wav", "sentence": "긴급 착륙을 위한 Checklist 준비됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0619.wav", "sentence": "Emergency landing gear extension 고려해야 할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0620.wav", "sentence": "Single engine approach 준비 시작할게"}
+{"audio": "../voices/Lora_Dataset/seg_0621.wav", "sentence": "좌측 엔진 화재로 엔진 정지됐어 Single engine으로 간다"}
+{"audio": "../voices/Lora_Dataset/seg_0622.wav", "sentence": "엔진 성능 저하 감지돼 계속 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0623.wav", "sentence": "엔진 출력 불안정해 계속 Thrust 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0624.wav", "sentence": "엔진 vibration limit 초과됐어 바로 절차 들어가야지"}
+{"audio": "../voices/Lora_Dataset/seg_0625.wav", "sentence": "엔진 화재 경고는 꺼졌지만 냄새가 계속 나"}
+{"audio": "../voices/Lora_Dataset/seg_0626.wav", "sentence": "냄새와 연기가 남아 있으면 Ventilation 조정해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0627.wav", "sentence": "Cabin crew에게 상황 알리고 준비시키자"}
+{"audio": "../voices/Lora_Dataset/seg_0628.wav", "sentence": "Passenger에게 상황 브리핑해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0629.wav", "sentence": "좌석 벨트 사인 켰어 승객 안전 확보 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0630.wav", "sentence": "Fire extinguisher 방출 후 Pressure indication 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0631.wav", "sentence": "Extinguisher discharge light 확인됐어?"}
+{"audio": "../voices/Lora_Dataset/seg_0632.wav", "sentence": "Fire handle light 꺼졌는지 확인해봐"}
+{"audio": "../voices/Lora_Dataset/seg_0633.wav", "sentence": "ECAM memo에서 Fire extinguished 메시지 떴어"}
+{"audio": "../voices/Lora_Dataset/seg_0634.wav", "sentence": "Engine fire 절차가 끝났어 Status page 확인 중이야"}
+{"audio": "../voices/Lora_Dataset/seg_0635.wav", "sentence": "엔진 화재 상황에서 Electrical power 분리 필요할까?"}
+{"audio": "../voices/Lora_Dataset/seg_0636.wav", "sentence": "Hydraulic system 영향 있는지 모니터링해"}
+{"audio": "../voices/Lora_Dataset/seg_0637.wav", "sentence": "Pneumatic bleed air는 차단됐는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0638.wav", "sentence": "엔진 화재 진압 완료 후에도 Fuel balance 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0639.wav", "sentence": "엔진 화재 이후 Crossfeed valve 점검해"}
+{"audio": "../voices/Lora_Dataset/seg_0640.wav", "sentence": "엔진 화재 절차 수행 중 Checklist crosscheck하자"}
+{"audio": "../voices/Lora_Dataset/seg_0641.wav", "sentence": "Challenge and response 방식으로 절차 진행할게"}
+{"audio": "../voices/Lora_Dataset/seg_0642.wav", "sentence": "Engine fire checklist step by step 따라가고 있어"}
+{"audio": "../voices/Lora_Dataset/seg_0643.wav", "sentence": "QRH 절차와 ECAM 메시지 불일치하는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0644.wav", "sentence": "Manual procedure 필요한지 확인하자"}
+{"audio": "../voices/Lora_Dataset/seg_0645.wav", "sentence": "좌측 엔진 화재 절차 끝났어 Now engine secured"}
+{"audio": "../voices/Lora_Dataset/seg_0646.wav", "sentence": "비상 상황에서 ATC와 계속 통신 유지하자"}
+{"audio": "../voices/Lora_Dataset/seg_0647.wav", "sentence": "Cabin altitude check도 같이 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0648.wav", "sentence": "화재 절차 중에 Electrical load shedding 확인했어"}
+{"audio": "../voices/Lora_Dataset/seg_0649.wav", "sentence": "엔진 화재 절차에서 Generator trip 여부 확인"}
+{"audio": "../voices/Lora_Dataset/seg_0650.wav", "sentence": "엔진 화재 절차 중에 Fuel pumps off 했지?"}
+{"audio": "../voices/Lora_Dataset/seg_0651.wav", "sentence": "Hydraulic pumps 영향 받았는지 확인해"}
+{"audio": "../voices/Lora_Dataset/seg_0652.wav", "sentence": "엔진 화재 진압되면 Resume normal operation 준비해"}
+{"audio": "../voices/Lora_Dataset/seg_0653.wav", "sentence": "엔진 화재가 기체 구조에 손상 줬는지 확인 필요해"}
+{"audio": "../voices/Lora_Dataset/seg_0654.wav", "sentence": "Fire extinguishing 완료 후 Maintenance log 기록해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0655.wav", "sentence": "비행 종료 후 Fire extinguisher pressure 확인할 것"}
+{"audio": "../voices/Lora_Dataset/seg_0656.wav", "sentence": "엔진 화재 절차 훈련 덕분에 신속하게 대응했어"}
+{"audio": "../voices/Lora_Dataset/seg_0657.wav", "sentence": "비행 기록계에 Engine fire event 기록됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0658.wav", "sentence": "Flight data recorder에 Fire warning 저장 확인해야 해"}
+{"audio": "../voices/Lora_Dataset/seg_0659.wav", "sentence": "좌측 엔진 화재 절차 마무리됐어"}
+{"audio": "../voices/Lora_Dataset/seg_0660.wav", "sentence": "Return to base 결정하고 Approach briefing 시작"}
+{"audio": "../voices/Lora_Dataset/seg_0661.wav", "sentence": "Emergency evacuation 필요할 수 있어 준비하자"}
+{"audio": "../voices/Lora_Dataset/seg_0662.wav", "sentence": "착륙 후 Fire service 요청해야겠어"}
+{"audio": "../voices/Lora_Dataset/seg_0663.wav", "sentence": "지상 활주 중에도 Fire warning 다시 오나 감시해"}
+{"audio": "../voices/Lora_Dataset/seg_0664.wav", "sentence": "Engine fire extinguished 메시지 확인 최종 완료"}
+{"audio": "../voices/Lora_Dataset/seg_0665.wav", "sentence": "모든 절차 끝났어 Now aircraft under control"}

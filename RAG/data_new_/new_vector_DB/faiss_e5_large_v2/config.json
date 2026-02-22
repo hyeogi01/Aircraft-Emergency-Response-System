@@ -1,0 +1,5 @@
+{
+  "model_name": "intfloat/e5-large-v2",
+  "normalize": true,
+  "dim": 1024
+}
